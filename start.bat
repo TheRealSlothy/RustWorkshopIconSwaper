@@ -1,2 +1,2 @@
 @echo off
-powershell -NoExit -ExecutionPolicy Bypass -File "C:\Users\brina\Desktop\RustIconSwaper\test.ps1"
+powershell -NoExit -ExecutionPolicy Bypass -File "PASTE YOUR LOCATION/PATH OF BACKGROUND"
