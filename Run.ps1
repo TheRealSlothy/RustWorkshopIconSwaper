@@ -1,5 +1,5 @@
 # Define the source file and Temp folder
-$sourceFile = "PASTE/WHERE/YOUR/BACKGROUND/IS"
+$sourceFile = "PASTE/YOUR/BACKGROUND/PATH/HERE"
 $tempPath = $env:TEMP
 $cutoffTime = (Get-Date).AddMinutes(-10)
 
