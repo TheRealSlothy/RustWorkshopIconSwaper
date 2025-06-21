@@ -1,5 +1,5 @@
 # Define the source file and Temp folder
-$sourceFile = "C:\Users\brina\Desktop\Ammo\icon_background.png"
+$sourceFile = "PASTE/WHERE/YOUR/BACKGROUND/IS"
 $tempPath = $env:TEMP
 $cutoffTime = (Get-Date).AddMinutes(-10)
 
