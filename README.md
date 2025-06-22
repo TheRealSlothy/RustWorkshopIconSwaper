@@ -13,7 +13,7 @@ Replaces Default icon_background.png Of Your Rust Workshop(Steam) Item Thumbnail
 3. Then Right Click On icon.ps1 & Open With Text Editor Of Choise Example: Notepad or Vscode
 ![3](https://github.com/user-attachments/assets/fd4eea39-e805-4af6-a58b-fbbc63d60fe4)
 
-4. Then Change Where It Says [Line 2] ($sourceFile = "PASTE/YOUR/BACKGROUND/PATH/HERE") Paste The Path, Should Look Like This ($sourceFile = "C:\Users\Tom\Desktop\MyRustSkins\icon_background.png") Save & Exit
+4. Then Change Where It Says [Line 2] ($sourceFile = "PASTE/YOUR/BACKGROUND/PATH/HERE") Paste The Path, Should Look Like This ($sourceFile = "C:\Users\brina\Desktop\MyRustSkins\icon_background.png") Save & Exit
 ![4](https://github.com/user-attachments/assets/b7e96d57-d084-477f-8763-7b96ff754980)
 
 5. Now Where You Downloaded The Files Find icon.ps1 & Right Click & Copy as path
