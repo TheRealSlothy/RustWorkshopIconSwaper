@@ -1,2 +1,2 @@
 @echo off
-powershell -NoExit -ExecutionPolicy Bypass -File "PASTE/YOUR/LOCATION/PATH/OF/THE/icon.ps1"
+start "" powershell -ExecutionPolicy Bypass -File "PASTE/YOUR/LOCATION/PATH/OF/THE/icon.ps1"
