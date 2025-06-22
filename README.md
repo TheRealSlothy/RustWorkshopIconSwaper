@@ -16,10 +16,15 @@ Replaces Default icon_background.png Of Your Rust Workshop(Steam) Item Thumbnail
 4. Then Change Where It Says [Line 2] ($sourceFile = "PASTE/YOUR/BACKGROUND/PATH/HERE") Paste The Path, Should Look Like This ($sourceFile = "C:\Users\Tom\Desktop\MyRustSkins\icon_background.png") Save & Exit
 ![4](https://github.com/user-attachments/assets/b7e96d57-d084-477f-8763-7b96ff754980)
 
-5. Now Where You Downloaded The Files Find icon.ps1 & Right Click & Copy as path Then Open Start.bat With Text Editor Of Choise Example: Notepad or Vscode
+5. Now Where You Downloaded The Files Find icon.ps1 & Right Click & Copy as path
+![5](https://github.com/user-attachments/assets/d70b0d67-e795-4b28-95a8-f7a5bc6f7593)
 
-6. Then Change "PASTE YOUR LOCATION/PATH/icon.ps1" Should Look Like This, ( -File "C:\Users\Tom\Desktop\RustWorkshopIconSwaper\icon.ps1" )Save & Exit
+6. Then Open Start.bat With Text Editor Of Choise Example: Notepad or Vscode
+![6](https://github.com/user-attachments/assets/28b6311c-e6f4-45fb-9d40-4f32bb93fc87)
 
-7. Now Run The Start.bat if You Get a Error You Need To Use This Command (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser) In Administator Powershell
+7. Then Change "PASTE YOUR LOCATION/PATH/icon.ps1" Should Look Like This, ( -File "C:\Users\Tom\Desktop\RustWorkshopIconSwaper\icon.ps1" )Save & Exit
+![7](https://github.com/user-attachments/assets/c928af18-0ecb-4901-a52a-821183df166d)
+
+8. Now Run The Start.bat if You Get a Error You Need To Use This Command (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser) In Administator Powershell
 
 #HowToUse
