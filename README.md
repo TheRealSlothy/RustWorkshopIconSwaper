@@ -2,6 +2,7 @@
 
 Replaces Default icon_background.png Of Your Rust Workshop(Steam) Item Thumbnail With Custom Thumbnail
 
+#SetUp
 
 1. First Download Files & Put In a Folder Name Whatever 
 ![1](https://github.com/user-attachments/assets/4161e3c7-5033-4044-bb98-66437fa2c980)
@@ -15,4 +16,4 @@ Replaces Default icon_background.png Of Your Rust Workshop(Steam) Item Thumbnail
 7. Then Change "PASTE YOUR LOCATION/PATH/icon.ps1" Should Look Like This, ( -File "C:\Users\Tom\Desktop\RustWorkshopIconSwaper\icon.ps1" )Save & Exit
 8. Now Run The Start.bat if You Get a Error You Need To Use This Command (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser) In Administator Powershell
 
-Video:
+#HowToUse
