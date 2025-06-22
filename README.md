@@ -22,7 +22,7 @@ Replaces Default icon_background.png Of Your Rust Workshop(Steam) Item Thumbnail
 6. Then Open Start.bat With Text Editor Of Choise Example: Notepad or Vscode
 ![6](https://github.com/user-attachments/assets/28b6311c-e6f4-45fb-9d40-4f32bb93fc87)
 
-7. Then Change "PASTE YOUR LOCATION/PATH/icon.ps1" Should Look Like This, ( -File "C:\Users\Tom\Desktop\RustWorkshopIconSwaper\icon.ps1" )Save & Exit
+7. Then Change "PASTE YOUR LOCATION/PATH/icon.ps1" Should Look Like This, ( -File "C:\Users\brina\Desktop\RustWorkshopIconSwaper\icon.ps1" )Save & Exit
 ![7](https://github.com/user-attachments/assets/c928af18-0ecb-4901-a52a-821183df166d)
 
 8. Now Run The Start.bat if You Get a Error You Need To Use This Command (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser) In Administator Powershell
