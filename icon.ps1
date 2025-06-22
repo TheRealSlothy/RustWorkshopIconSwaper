@@ -1,5 +1,5 @@
 $fileName = "icon_background.png"
-$sourcePath = "C:\Users\brina\Desktop\RustSkinsBackgrounds\icon_background.png"
+$sourcePath = ""
 $tempPath = $env:TEMP
 
 Write-Host "Checking for source file..."
