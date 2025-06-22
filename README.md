@@ -1,6 +1,6 @@
 # RustWorkshopIconSwaper
 
-Replaces Default icon_background.png Of The Rust Steam Workshop Thumbnail With Custom Thumbnail
+Replaces Default icon_background.png Of Your Rust Workshop(Steam) Item Thumbnail With Custom Thumbnail
 
 
 1. First Download Files & Put In a Folder Name Whatever 
