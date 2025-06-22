@@ -11,5 +11,4 @@ Replaces Default icon_background.png Of The Rust Steam Workshop Thumbnail With C
 6. Then Change "PASTE YOUR LOCATION/PATH/icon.ps1" Should Look Like This, ( -File "C:\Users\Tom\Desktop\RustWorkshopIconSwaper\icon.ps1" )Save & Exit
 7. Now Run The Start.bat if You Get a Error You Need To Use This Command (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser) In Administator Powershell
 
-8. Video
-9. 
+Video:
