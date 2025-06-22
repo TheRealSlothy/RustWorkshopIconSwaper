@@ -1,5 +1,5 @@
 $fileName = "icon_background.png"
-$sourcePath = ""
+$sourcePath = "PASTE/YOUR/BACKGROUND/PATH/HERE"
 $tempPath = $env:TEMP
 
 Write-Host "Checking for source file..."
