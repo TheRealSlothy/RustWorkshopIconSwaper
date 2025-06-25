@@ -25,11 +25,14 @@ Replaces Default icon_background.png Of Your Rust Workshop(Steam) Item Thumbnail
 7. Then Change "PASTE YOUR LOCATION/PATH/icon.ps1" Should Look Like This, ( -File "C:\Users\brina\Desktop\RustWorkshopIconSwaper\icon.ps1" )Save & Exit
 ![7](https://github.com/user-attachments/assets/c928af18-0ecb-4901-a52a-821183df166d)
 
-Ps. If You Get a Error You Need To Use This Command (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser) In Administator Powershell
 
-HowToSetUp icon.png & icon_background.png Swap
+
+#HowToSetUp: icon.png & icon_background.png Swap
 
 
 
 
 #HowToUse:
+
+
+Ps. If You Get a Error You Need To Use This Command (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser) In Administator Powershell
