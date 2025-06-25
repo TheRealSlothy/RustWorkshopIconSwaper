@@ -27,4 +27,9 @@ Replaces Default icon_background.png Of Your Rust Workshop(Steam) Item Thumbnail
 
 Ps. If You Get a Error You Need To Use This Command (Set-ExecutionPolicy RemoteSigned -Scope CurrentUser) In Administator Powershell
 
+HowToSetUp icon.png & icon_background.png Swap
+
+
+
+
 #HowToUse:
