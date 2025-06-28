@@ -25,9 +25,10 @@ Replaces Default icon_background.png Of Your Rust Workshop(Steam) Item Thumbnail
 7. Then Change "PASTE YOUR LOCATION/PATH/icon.ps1" Should Look Like This, ( -File "C:\Users\brina\Desktop\RustWorkshopIconSwaper\icon.ps1" )Save & Exit
 ![7](https://github.com/user-attachments/assets/c928af18-0ecb-4901-a52a-821183df166d)
 
+DONE
 
 
-#HowToSetUp: icon.png & icon_background.png Swap
+#HowToSetUp: both icon.png & icon_background.png
 
 
 
